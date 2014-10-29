@@ -1,0 +1,31 @@
+@import url(//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,300italic,400italic,600italic);
+
+@import url(//fonts.googleapis.com/css?family=Kaushan+Script);
+/*!
+ *   Vote
+ *   Author: Sumit Singh
+!*/
+/*
+    Core: General style
+-----
+*/
+
+/* margins length */
+.mb20 {
+    margin-bottom: 20px;
+}
+.mb30 {
+    margin-bottom: 30px;
+}
+.mb10 {
+    margin-bottom: 10px;
+}
+.mt15{
+    margin-top: 15px;
+}
+
+/* */
+.img-size-small{
+    height: 40px;
+    width: 40px;
+}

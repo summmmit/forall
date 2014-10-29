@@ -2,10 +2,8 @@
 
 @import url(//fonts.googleapis.com/css?family=Kaushan+Script);
 /*! 
- *   AdminLTE v1.2
- *   Author: AlmsaeedStudio.com
- *   License: Open source - MIT
- *           Please visit http://opensource.org/licenses/MIT for more information
+ *   Vote
+ *   Author: Sumit Singh
 !*/
 /*
     Core: General style
@@ -143,7 +141,7 @@ h6,
 }
 /* All images should be responsive */
 img {
-  max-width: 100%important;
+  max-width: 100% important;
 }
 .sort-highlight {
   background: #f4f4f4;
